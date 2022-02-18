@@ -1,4 +1,4 @@
-x = []
+x = [] 
 p = 0 
 infile = open("two_cities_ascii".txt, 'r')
 for line in infile:
